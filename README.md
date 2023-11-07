@@ -1,6 +1,6 @@
-# IoT-Application-Hosting-Platform (IAHP)
+# Distributed-IOT-Hosting-Platform
 
-The IoT-Application-Hosting-Platform (IAHP) streamlines the process for users to set up and manage digital applications across diverse domains. With seamless integration capabilities, it connects effortlessly with various data sources and leverages the oneM2M platform for comprehensive data collection. Designed for optimal user experience, IAHP boasts flexible configurations, robust security measures, and efficient resource utilization.
+The Distribute IoT Hosting Platform streamlines the process for users to set up and manage digital applications across diverse domains. With seamless integration capabilities, it connects effortlessly with various data sources and leverages the oneM2M platform for comprehensive data collection. Designed for optimal user experience, IAHP boasts flexible configurations, robust security measures, and efficient resource utilization.
 
 
 ## Table of Contents
