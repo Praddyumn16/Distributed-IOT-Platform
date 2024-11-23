@@ -1,6 +1,6 @@
 # IoTNetHub: Distributed IoT Application Hosting
 
-Thsi distributed IoT Hosting Platform streamlines the process for users to set up and manage digital applications across diverse domains. With seamless integration capabilities, it connects effortlessly with various data sources and leverages the oneM2M platform for comprehensive data collection. Designed for optimal user experience, IAHP boasts flexible configurations, robust security measures, and efficient resource utilization.
+This distributed IoT Hosting Platform streamlines the process for users to set up and manage digital applications across diverse domains. With seamless integration capabilities, it connects effortlessly with various data sources and leverages the oneM2M platform for comprehensive data collection. Designed for optimal user experience, IAHP boasts flexible configurations, robust security measures, and efficient resource utilization.
 
 ## Table of Contents
 
